@@ -1,0 +1,92 @@
+<configs>
+	<append xpath="/blocks/block[@name='porchLight01']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='porchLight04']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='porchLight04Brass']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight01']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight02']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight02Brass']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight04']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight05']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight05Brass']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='recessedLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='wallLight01']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingLight07']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='fluorescentLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='trackLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='industrialLight01']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='sconce1Light']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='industrialLight02']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='industrialLight02Red']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='ceilingFanLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='chandelierLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='candelabraLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='signExitLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='roadBarricadeLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='deskLampLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='tableLampLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='tableLampTippedOverLight']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='workLightPOI']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='streetLight01']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='streetLightClassic']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+	<append xpath="/blocks/block[@name='spotlightNailedDownPOI']">
+		<property name="LightShadow" value="soft"/>
+	</append>
+</configs>
