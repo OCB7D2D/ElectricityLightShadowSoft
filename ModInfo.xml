@@ -2,7 +2,7 @@
 <xml>
 	<ModInfo>
 		<Name value="ElectricityLightShadowSoft" />
-		<Description value="Force soft shadows for all lights with ElectricityLamps" />
+		<Description value="Force soft shadows for all lights with ElectricityLamps (requires ElectricityLampsPOI)" />
 		<Website value="https://github.com/OCB7D2D/ElectricityLightShadowSoft" />
 		<Author value="ocbMaurice" />
 		<Version value="0.3.0" compat="A20"/>
